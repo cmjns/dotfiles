@@ -16,7 +16,7 @@ set rtp+=~/.vim/bundle/vundle/
 call vundle#rc()
 
 " Let Vundle manage Vundle
-Bundle 'gmarik/vundle'
+Bundle 'vundle'
 
 " GitHub repos
 Bundle 'tpope/vim-fugitive'
