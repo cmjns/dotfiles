@@ -1,6 +1,6 @@
 [submodule ".vim/bundles/vim-latex"]
 	path = .vim/bundles/vim-latex
 	url = git://github.com/jcf/vim-latex.git
-[submodule "vundle"]
-	path = vundle
+[submodule ".vim/bundles/vundle"]
+	path = .vim/bundles/vundle
 	url = git://github.com/gmarik/vundle.git
