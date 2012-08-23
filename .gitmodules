@@ -7,3 +7,6 @@
 [submodule ".vim/bundle/vim-latex"]
 	path = .vim/bundle/vim-latex
 	url = git://github.com/jcf/vim-latex.git
+[submodule ".vim/bundle/closetag.vim"]
+	path = .vim/bundle/closetag.vim
+	url = https://github.com/vim-scripts/closetag.vim.git
