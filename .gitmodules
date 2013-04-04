@@ -10,3 +10,6 @@
 [submodule ".vim/bundle/closetag.vim"]
 	path = .vim/bundle/closetag.vim
 	url = git://github.com/vim-scripts/closetag.vim.git
+[submodule ".vim/vimoutliner"]
+	path = .vim/vimoutliner
+	url = git://github.com/vimoutliner/vimoutliner.git
